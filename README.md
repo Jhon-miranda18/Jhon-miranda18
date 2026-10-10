@@ -26,7 +26,6 @@
 
 <ul>
   <li> Aprender nuevos lenguajes de programación.</li>
-  <li> Practicar programación con Java y programación orientada a objetos.</li>
   <li> Desarrollar proyectos para poner en práctica mis conocimientos.</li>
   <li> Resolver problemas utilizando la programación.</li>
   <li> Aprender nuevas tecnologías y herramientas.</li>
